@@ -1,4 +1,4 @@
-# Yes it is ON
+# Yes, it is ON
 
 ![Laptop](laptop.jpg)
 
